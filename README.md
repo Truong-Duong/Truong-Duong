@@ -1,4 +1,6 @@
-# 👋 Hello Everyone, My name is Truong Duong 
+# Hello Everyone, My name is Truong Duong 👋
+
+## I am a Full Stack Web Developer, Cyber Security Analyst, Software Engineer, and Mechanical Engineer
 
 - 🔭 I’m currently working on my master's degree in computer science and coding bootcamp. 
 
