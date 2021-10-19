@@ -10,16 +10,14 @@
 
 - 🥅 2021 Goals: I am learning Java and C++ meanwhile I am working more open source project.
 
-- 📫 How to reach me: 
-    - 📧 Email: truong.duong1908@gmail.com
-    - 💡 LinkedIn: https://www.linkedin.com/in/truongduong/
-    - 🧍‍♂️ Portfolio: https://www.txd.com/
-
 - ⚡ Fun fact: exas is the only state to have the flags of 6 different nations fly over it. They are: Spain, France, Mexico, Republic of Texas, Confederate States, and the United States.
 
 <h1 align="center">Connect and Contact</h1>
 
 <p align="center" >
+<a href="https://truong-duong.github.io/Stage-2-Professional-Portfolio/">
+ <img  src="https://img.shields.io/badge/Truong Duong-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/>
+</a>
 <a href="mailto: truong.duong1908@gmail.com">
  <img  src="https://img.shields.io/badge/Truong Duong-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -27,10 +25,11 @@
  <img src="https://img.shields.io/badge/Truong Duong-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </p>
 
-
+<br>
 
 <h1 align="center">Technologies and Tools</h1>
 
+<h2 align="center">Programming Language</h2>
 <p align="center">
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -44,6 +43,19 @@
 <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"/>
 </p>
 
+<br>
 
-
-
+<h2 align="center">Frameworks, Platforms and Libraries</h2>
+<p align="center">
+<img src="https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql"/>
+<img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
+<img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE"/>
+<img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
+<img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"/>
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
+<img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
+</p>
