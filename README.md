@@ -23,18 +23,15 @@
  <img  src="https://img.shields.io/badge/-Truong Duong-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:truong.duong1908@gmail.com"/>
 </a>
 <a href="https://www.linkedin.com/in/truongduong/">
- <img src="https://img.shields.io/badge/-ritikrawal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/truongduong/"/>
-</a>
- <a href="https://twitter.com/ritikhere307">
- <img src="https://img.shields.io/badge/-ritikhere307-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/ritikhere307"/>
-</a>
+ <img src="https://img.shields.io/badge/-Truong Duong-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/truongduong/"/>
+
 </p>
 
 
 
 <h1 align="center">Technologies and Tools</h1>
 <p align="center">
-<img width="100px" height="50px" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
 <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
