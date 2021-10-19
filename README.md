@@ -18,6 +18,7 @@
 - ⚡ Fun fact: exas is the only state to have the flags of 6 different nations fly over it. They are: Spain, France, Mexico, Republic of Texas, Confederate States, and the United States.
 
 <h1 align="center">Connect and Contact</h1>
+
 <p align="center" >
 <a href="mailto: truong.duong1908@gmail.com">
  <img  src="https://img.shields.io/badge/-Truong Duong-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:truong.duong1908@gmail.com"/>
@@ -29,12 +30,18 @@
 
 
 <h1 align="center">Technologies and Tools</h1>
+
 <p align="center">
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"/>
 </p>
 
 
