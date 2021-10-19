@@ -21,10 +21,10 @@
 
 <p align="center" >
 <a href="mailto: truong.duong1908@gmail.com">
- <img  src="https://img.shields.io/badge/-Truong Duong-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:truong.duong1908@gmail.com"/>
+ <img  src="https://img.shields.io/badge/Truong Duong-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/truongduong/">
- <img src="https://img.shields.io/badge/-Truong Duong-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/truongduong/"/>
+ <img src="https://img.shields.io/badge/Truong Duong-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </p>
 
 
