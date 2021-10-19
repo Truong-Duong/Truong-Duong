@@ -29,7 +29,7 @@
 
 <h1 align="center">Technologies and Tools</h1>
 
-<p align="center">Programming Language</p>
+<h3 align="center">Programming Language</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -45,7 +45,7 @@
 
 <br>
 
-<p align="center">Frameworks, Platforms and Libraries</p>
+<h3 align="center">Frameworks, Platforms and Libraries</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql"/>
 <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
