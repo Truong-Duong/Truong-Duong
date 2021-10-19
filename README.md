@@ -1,22 +1,18 @@
-# Hello Everyone, My name is Truong Duong 👋
+### Hello Everyone, My name is Truong Duong 👋
 
 ## I am a Full Stack Web Developer, Cyber Security Analyst, Software Engineer, and Mechanical Engineer
 
-- 🔭 I’m currently working on my master's degree in computer science and coding bootcamp. 
+- 👨‍🎓 I am a graduate student majoring computer science with specialty in software engineering and cyber sercurity at Southern Methodist University.
 
-- 🌱 I’m currently learning software engineering and full-stack web developing.
+- 🌱 I am currently learning software engineering and cyber sercurity meanwhile I am also practice full-stack web development.
 
-- 👯 I’m looking to collaborate on software development or front-end web development.
+- 👯 I am looking to collaborate with other full stack web developer.
 
-- 🤔 I’m looking for help with final project at SMU coding bootcamp.
-
-- 💬 Ask me about how I chieve my goals.
+- 🥅 2021 Goals: I am learning Java and C++ meanwhile I am working more open source project.
 
 - 📫 How to reach me: 
     - 📧 Email: truong.duong1908@gmail.com
     - 💡 LinkedIn: https://www.linkedin.com/in/truongduong/
     - 🧍‍♂️ Portfolio: https://www.txd.com/
 
-- 😄 Pronouns: him/he
-
-- ⚡ Fun fact: Monopoly pieces helped a charity
+- ⚡ Fun fact: exas is the only state to have the flags of 6 different nations fly over it. They are: Spain, France, Mexico, Republic of Texas, Confederate States, and the United States.
