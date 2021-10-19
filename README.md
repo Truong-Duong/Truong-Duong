@@ -12,6 +12,8 @@
 
 - ⚡ Fun fact: exas is the only state to have the flags of 6 different nations fly over it. They are: Spain, France, Mexico, Republic of Texas, Confederate States, and the United States.
 
+<br>
+
 <h1 align="center">Connect and Contact</h1>
 
 <p align="center" >
@@ -23,6 +25,16 @@
 </a>
 <a href="https://www.linkedin.com/in/truongduong/">
  <img src="https://img.shields.io/badge/Truong Duong-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://www.facebook.com/TruongxDuong/">
+ <img src="https://img.shields.io/badge/Truong Duong-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/truongxduong/">
+ <img src="https://img.shields.io/badge/Truong Duong-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+</a>
+<a href="https://twitter.com/Truong_X_Duong">
+ <img src="https://img.shields.io/badge/Truong Duong-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
+</a>
 </p>
 
 <br>
@@ -59,3 +71,26 @@
 <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
 <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
 </p>
+
+<br>
+
+<h3 align="center">IDEs/Editors</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white"/>
+</p>
+
+<br>
+
+<h3 align="center">IDEs/Editors</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
+</p>
+
+<br>
+
+<h1 align="center">Github Status</h1>
