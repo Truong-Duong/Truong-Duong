@@ -11,8 +11,6 @@ I am looking to collaborate with other full stack web developer 👯.
 My goals in 2021, I am learning Java and C++ meanwhile I am working more open source project 🥅.
 Fun fact: Texas is the only state to have the flags of 6 different nations fly over it. They are: Spain, France, Mexico, Republic of Texas, Confederate States, and the United States ⚡.
 
-<br>
-
 <h1 align="center">Connect and Contact</h1>
 
 <p align="center" >
@@ -36,10 +34,8 @@ Fun fact: Texas is the only state to have the flags of 6 different nations fly o
 </a>
 </p>
 
-<br>
 
 <h1 align="center">Technologies and Tools</h1>
-
 <h3 align="center">Programming Language</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
@@ -53,8 +49,6 @@ Fun fact: Texas is the only state to have the flags of 6 different nations fly o
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"/>
 </p>
-
-<br>
 
 <h3 align="center">Frameworks, Platforms and Libraries</h3>
 <p align="center">
@@ -71,8 +65,6 @@ Fun fact: Texas is the only state to have the flags of 6 different nations fly o
 <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
 </p>
 
-<br>
-
 <h3 align="center">IDEs/Editors</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
@@ -81,8 +73,6 @@ Fun fact: Texas is the only state to have the flags of 6 different nations fly o
 <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white"/>
 </p>
 
-<br>
-
 <h3 align="center">Version Control</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
@@ -90,14 +80,10 @@ Fun fact: Texas is the only state to have the flags of 6 different nations fly o
 <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
 </p>
 
-<br>
-
 <h3 align="center">Hosting/SaaS</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
 </p>
-
-<br>
 
 <h3 align="center">Databases</h3>
 <p align="center">
