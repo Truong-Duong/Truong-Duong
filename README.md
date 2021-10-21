@@ -84,7 +84,7 @@
 
 <br>
 
-<h3 align="center">IDEs/Editors</h3>
+<h3 align="center">Version Control</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
@@ -93,4 +93,19 @@
 
 <br>
 
-<h1 align="center">Github Status</h1>
+<h3 align="center">Hosting/SaaS</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
+</p>
+
+<br>
+
+<h3 align="center">Databases</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+<!--
+Notes: Sites for Future Development
+Badges: https://github.com/Ileriayo/markdown-badges
+ -->
